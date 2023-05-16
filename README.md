@@ -20,7 +20,7 @@ While there is no limit on the time you can spend on this task before the deadli
 
 ## Presenting/submitting your solution
 
-Please create a new private Github repository in your own account, with your working solution and share this with us @QESolirius. This is so we can review your solution and we can keep it private. Please provide a thorough README.
+Please create a new private Github repository in your own account, with your working solution and share this with us @QESoliriusConsulting. This is so we can review your solution and we can keep it private. Please provide a thorough README.
 
 ## NB:
 
